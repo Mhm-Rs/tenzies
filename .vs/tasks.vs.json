@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "tâche-Die",
+      "appliesTo": "src/components/Die.js",
+      "type": "launch"
+    }
+  ]
+}
